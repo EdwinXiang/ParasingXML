@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7DE5A70467185C12234DA354EFC188DF114B7B65",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7DE5A70467185C12234DA354EFC188DF114B7B65" : 0,
+    "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A4454DB0-686B-4BF4-BE34-B7225A6F1998",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7DE5A70467185C12234DA354EFC188DF114B7B65" : "ParasingXML\/",
+    "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904" : "ParasingXML\/%E6%B5%8B%E8%AF%95\/%E6%B5%8B%E8%AF%95\/minizip\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "测试",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "测试\/测试.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EdwinXiang\/ParasingXML.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7DE5A70467185C12234DA354EFC188DF114B7B65"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/ziparchive.googlecode.com\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d527bfd2-f195-11dd-984d-ab748d24aa7e++1904"
+    }
+  ]
+}
